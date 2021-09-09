@@ -9,3 +9,9 @@ This is a collection of examples for GTK3
    - Only function calls have a space between name and bracket.
       - Example: `setValue (1);`
    - This makes searching a lot easier.
+   
+   
+# Support
+
+If you feel you'd like to support me, feel free to 
+donate via an Amazon Gift Card. 
